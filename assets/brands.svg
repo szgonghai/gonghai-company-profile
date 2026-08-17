@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Microsoft YaHei, sans-serif">
+  <rect width="800" height="300" fill="#f8f9fa"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="30" text-anchor="middle" fill="#495057" font-size="20" font-weight="bold">代理品牌矩阵</text>
+  <text x="400" y="55" text-anchor="middle" fill="#666" font-size="13">6 大国际品牌 + 自有品牌 PTCXPUMP</text>
+  
+  <!-- 品牌卡片网格 -->
+  <g transform="translate(50,90)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff" stroke="#dc3545" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" fill="#dc3545" font-size="20" font-weight="bold">PTCXPUMP</text>
+    <text x="80" y="55" text-anchor="middle" fill="#666" font-size="11">自有品牌（金属/塑料）</text>
+    <text x="80" y="70" text-anchor="middle" fill="#999" font-size="10">★ 主力</text>
+  </g>
+  
+  <g transform="translate(230,90)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff" stroke="#007bff" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" fill="#007bff" font-size="20" font-weight="bold">INNOMAG</text>
+    <text x="80" y="55" text-anchor="middle" fill="#666" font-size="11">美国 · 内衬磁力泵</text>
+    <text x="80" y="70" text-anchor="middle" fill="#999" font-size="10">★ 半导体级</text>
+  </g>
+  
+  <g transform="translate(410,90)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff" stroke="#28a745" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" fill="#28a745" font-size="20" font-weight="bold">DAIDO</text>
+    <text x="80" y="55" text-anchor="middle" fill="#666" font-size="11">日本 · 精密泵浦</text>
+  </g>
+  
+  <g transform="translate(590,90)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff" stroke="#fd7e14" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" fill="#fd7e14" font-size="20" font-weight="bold">KUROSE</text>
+    <text x="80" y="55" text-anchor="middle" fill="#666" font-size="11">日本 · 换热器</text>
+  </g>
+  
+  <g transform="translate(50,200)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff" stroke="#6f42c1" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" fill="#6f42c1" font-size="20" font-weight="bold">WOOAM</text>
+    <text x="80" y="55" text-anchor="middle" fill="#666" font-size="11">韩国 · PTFE 换热器</text>
+  </g>
+  
+  <g transform="translate(230,200)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#fff" stroke="#20c997" stroke-width="2"/>
+    <text x="80" y="35" text-anchor="middle" fill="#20c997" font-size="20" font-weight="bold">FILTER PLUS</text>
+    <text x="80" y="55" text-anchor="middle" fill="#666" font-size="11">工业过滤器</text>
+  </g>
+  
+  <g transform="translate(410,200)">
+    <rect x="0" y="0" width="340" height="80" rx="8" fill="#fff" stroke="#6c757d" stroke-width="2"/>
+    <text x="170" y="35" text-anchor="middle" fill="#6c757d" font-size="14">服务行业</text>
+    <text x="170" y="55" text-anchor="middle" fill="#495057" font-size="11">化工 · 半导体 · PCB · 制药 · 食品 · 环保</text>
+    <text x="170" y="70" text-anchor="middle" fill="#999" font-size="10">客户：台积电、台塑、上千家企业</text>
+  </g>
+</svg>
