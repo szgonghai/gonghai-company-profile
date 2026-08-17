@@ -1,0 +1,24 @@
+{
+  "company": {
+    "name_cn": "苏州弓海贸易有限公司",
+    "name_short": "弓海贸易",
+    "industry": "工业流体设备",
+    "main_business": ["磁力泵", "换热器", "过滤器"],
+    "established": "2008-03-03",
+    "parent_company": "台湾弓海企业有限公司",
+    "parent_established": "1983",
+    "experience_years": 40,
+    "team_size": "20 (苏州) + 数十人 (台湾)",
+    "service_clients": "上千家",
+    "brands": ["INNOMAG", "DAIDO", "KUROSE", "WOOAM", "PTCXPUMP", "Filter Plus"],
+    "certifications": ["ISO", "CE", "ATEX"],
+    "awards": ["2021 台湾精品奖"],
+    "key_clients": ["台积电", "台塑"],
+    "contact": {
+      "phone": "0512-62570717",
+      "wechat": "wxid_zhx6rm8g93h522",
+      "website": "https://www.szkhai.com.cn",
+      "address": "江苏省苏州市苏州工业园区星汉街5号A幢6楼02单元"
+    }
+  }
+}
