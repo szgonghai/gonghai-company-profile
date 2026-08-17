@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Microsoft YaHei, sans-serif">
+  <rect width="800" height="500" fill="#f8f9fa"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="30" text-anchor="middle" fill="#495057" font-size="22" font-weight="bold">苏州弓海贸易有限公司</text>
+  <text x="400" y="55" text-anchor="middle" fill="#666" font-size="14">40 年工业流体设备代理与服务商</text>
+  
+  <!-- 母公司 -->
+  <rect x="300" y="90" width="200" height="60" rx="5" fill="#007bff" stroke="#0056b3" stroke-width="2"/>
+  <text x="400" y="115" text-anchor="middle" fill="white" font-size="16" font-weight="bold">台湾弓海企业</text>
+  <text x="400" y="135" text-anchor="middle" fill="white" font-size="12">母公司（1983 年成立）</text>
+  
+  <!-- 箭头 -->
+  <line x1="400" y1="150" x2="400" y2="180" stroke="#495057" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="420" y="170" fill="#495057" font-size="11">40 年经验</text>
+  
+  <!-- 苏州公司 -->
+  <rect x="280" y="180" width="240" height="70" rx="8" fill="#dc3545" stroke="#a71d2a" stroke-width="2"/>
+  <text x="400" y="208" text-anchor="middle" fill="white" font-size="18" font-weight="bold">苏州弓海贸易有限公司</text>
+  <text x="400" y="228" text-anchor="middle" fill="white" font-size="12">2008 年 3 月成立</text>
+  
+  <!-- 业务三大块 -->
+  <rect x="50" y="290" width="180" height="120" rx="5" fill="#fff" stroke="#28a745" stroke-width="2"/>
+  <text x="140" y="315" text-anchor="middle" fill="#28a745" font-size="14" font-weight="bold">磁力泵</text>
+  <text x="140" y="340" text-anchor="middle" fill="#666" font-size="11">INNOMAG / PTCXPUMP</text>
+  <text x="140" y="358" text-anchor="middle" fill="#666" font-size="11">DAIDO / SANWA</text>
+  <text x="140" y="385" text-anchor="middle" fill="#495057" font-size="11">化工/半导体/P...</text>
+  
+  <rect x="310" y="290" width="180" height="120" rx="5" fill="#fff" stroke="#fd7e14" stroke-width="2"/>
+  <text x="400" y="315" text-anchor="middle" fill="#fd7e14" font-size="14" font-weight="bold">换热器</text>
+  <text x="400" y="340" text-anchor="middle" fill="#666" font-size="11">WOOAM / KUROSE</text>
+  <text x="400" y="358" text-anchor="middle" fill="#666" font-size="11">PTFE / 螺旋板</text>
+  <text x="400" y="385" text-anchor="middle" fill="#495057" font-size="11">半导体/精密化工</text>
+  
+  <rect x="570" y="290" width="180" height="120" rx="5" fill="#fff" stroke="#6f42c1" stroke-width="2"/>
+  <text x="660" y="315" text-anchor="middle" fill="#6f42c1" font-size="14" font-weight="bold">过滤器</text>
+  <text x="660" y="340" text-anchor="middle" fill="#666" font-size="11">FILTER PLUS</text>
+  <text x="660" y="358" text-anchor="middle" fill="#666" font-size="11">气体/液体过滤</text>
+  <text x="660" y="385" text-anchor="middle" fill="#495057" font-size="11">工业/食品/医药</text>
+  
+  <!-- 连接 -->
+  <line x1="400" y1="250" x2="140" y2="290" stroke="#495057" stroke-width="1" stroke-dasharray="3 2"/>
+  <line x1="400" y1="250" x2="400" y2="290" stroke="#495057" stroke-width="1" stroke-dasharray="3 2"/>
+  <line x1="400" y1="250" x2="660" y2="290" stroke="#495057" stroke-width="1" stroke-dasharray="3 2"/>
+  
+  <!-- 客户认可 -->
+  <text x="400" y="455" text-anchor="middle" fill="#495057" font-size="13" font-weight="bold">客户认可：台积电 · 台塑 · 上千家企业</text>
+  <text x="400" y="478" text-anchor="middle" fill="#666" font-size="11">资质：ISO ·CE ·ATEX |获奖：2021 台湾精品奖</text>
+  <text x="400" y="495" text-anchor="middle" fill="#999" font-size="11">https://www.szkhai.com.cn</text>
+  
+  <!-- 箭头定义 -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="#495057"/>
+    </marker>
+  </defs>
+</svg>
