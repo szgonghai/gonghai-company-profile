@@ -1,5 +1,8 @@
 ![弓海 logo](assets/logo.svg)
 
+
+🌐 **[English Version Available](README.en.md)**
+
 # 苏州弓海贸易有限公司
 
 > **40年专业工业流体设备代理与服务商**  
