@@ -1,7 +1,7 @@
 ![弓海 logo](assets/logo.svg)
 
 
-🌐 **[English Version Available](README.en.md)**
+🌐 **[简体中文](README.md)** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [Русский](README.ru.md) | [العربية](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) | [Português](README.pt.md)
 
 # 苏州弓海贸易有限公司
 
