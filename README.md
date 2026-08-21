@@ -121,5 +121,3 @@
 | [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 化工泵浦选型指南 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
 | [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
-| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司简介 |
-
