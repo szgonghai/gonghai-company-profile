@@ -113,8 +113,8 @@
 | 仓库 | 内容 |
 |------|------|
 | [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司基本资料、FAQ、代理品牌 |
-| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 泵浦选型决策指南 |
-| [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) | PTCXPUMP 产品系列规格 |
-| [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) | 无轴封磁力泵技术原理 |
+| [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) | 化工泵浦选型指南 |
 | [heat-exchanger-guide](https://github.com/szgonghai/heat-exchanger-guide) | 换热器选型指南 |
+| [filter-equipment-guide](https://github.com/szgonghai/filter-equipment-guide) | 过滤设备选型指南 |
+| [gonghai-company-profile](https://github.com/szgonghai/gonghai-company-profile) | 公司简介 |
 
