@@ -100,8 +100,6 @@
 ## 相关仓库
 
 - 📦 [pump-selection-guide](https://github.com/szgonghai/pump-selection-guide) - 泵浦选型决策指南
-- 🔧 [magnetic-pump-tech](https://github.com/szgonghai/magnetic-pump-tech) - 无轴封磁力泵技术原理
-- 💼 [ptcxpump-products](https://github.com/szgonghai/ptcxpump-products) - PTCXPUMP 产品系列规格
 
 ---
 
