@@ -29,6 +29,24 @@
 
 ## 核心业务
 
+> **代理品牌矩阵** — 点击品牌名访问官网
+
+| 品牌 | 官网 | 产品类型 | 核心优势 |
+|------|------|---------|---------|
+| **INNOMAG** | [innomag.de](https://www.innomag.de) | 无轴封磁力泵 | 德国品质，半导体级洁净度 |
+| **PTCXPUMP** | [szkhai.com.cn](https://www.szkhai.com.cn/化工泵浦/) | 工程塑料/不锈钢磁力泵 | 自有品牌，型号齐全 |
+| **ARO** | [aro-world.com](https://www.aro-world.com) | 气动隔膜泵 | 全球领先，防爆认证齐全 |
+| **顺益（SHUN-YI）** | [szkhai.com.cn](https://www.szkhai.com.cn) | 计量泵 | 精密计量，国产优选 |
+| **FILTER PLUS** | [szkhai.com.cn](https://www.szkhai.com.cn) | 液体过滤器 | 多材质可选，精细过滤 |
+| **WALKER FILTRATION** | [walker-filtration.com](https://www.walker-filtration.com) | 气体过滤器/干燥器 | 英国品牌，ISO8573认证 |
+| **KUROSE** | [kurose.co.jp](https://www.kurose.co.jp) | 螺旋板式换热器 | 日本品质，耐结垢 |
+| **SRP（舒瑞普）** | [srp-sel.com](https://www.srp-sel.com) | 板式热交换器 | 高效紧凑，可增减板片 |
+| **VAHTERUS** | [vaehterus.com](https://www.vaehterus.com) | 壳板式换热器 | 芬兰技术，承压能力强 |
+| **WOOAM** | [wooam.com](https://www.wooam.com) | PTFE换热器 | 强耐腐蚀，卫生级 |
+| **COOL+** | [szkhai.com.cn](https://www.szkhai.com.cn) | VOCs冷凝器 | 废气治理，节能 |
+
+
+
 | 产品系列 | 适用行业 | 核心特点 |
 |---------|---------|---------|
 | **INNOMAG 无轴封磁力泵** | 半导体/液晶面板/光伏 | 高洁净、零泄漏流体输送 |
