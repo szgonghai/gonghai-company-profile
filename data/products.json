@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "INNOMAG 无轴封磁力泵",
+      "industries": ["半导体", "液晶面板", "光伏"],
+      "features": ["高洁净", "零泄漏", "流体输送"],
+      "description": "适用于高洁净度化学试剂输送的磁力驱动离心泵"
+    },
+    {
+      "name": "PTCXPUMP 工程塑料磁力泵",
+      "industries": ["化工", "电镀", "废水处理"],
+      "features": ["耐强酸强碱", "耐腐蚀", "GFR-PP / CFR-ETFE 材质"],
+      "description": "适用于强酸强碱介质的工程塑料磁力驱动泵"
+    },
+    {
+      "name": "PTCXPUMP 不锈钢磁力泵",
+      "industries": ["石化", "制药", "食品"],
+      "features": ["高压", "高温", "304/316L 不锈钢"],
+      "description": "适用于高温高压流体输送的不锈钢磁力驱动泵"
+    },
+    {
+      "name": "气体隔膜泵/计量泵",
+      "industries": ["化工", "环保水处理"],
+      "features": ["定量添加", "含颗粒流体", "可空转"],
+      "description": "适用于定量添加和含颗粒流体的气动隔膜泵"
+    },
+    {
+      "name": "WOOAM PTFE 换热器",
+      "industries": ["半导体", "精密化工"],
+      "features": ["强耐腐蚀", "PTFE 材质", "板式换热"],
+      "description": "适用于强腐蚀流体的 PTFE 板式换热器"
+    },
+    {
+      "name": "KUROSE 螺旋板式换热器",
+      "industries": ["工业", "环保"],
+      "features": ["易结垢流体", "螺旋板式", "自清洁"],
+      "description": "适用于易结垢流体的螺旋板式换热器"
+    },
+    {
+      "name": "FILTER PLUS 过滤器",
+      "industries": ["工业流体过滤"],
+      "features": ["液体过滤", "气体过滤", "洁净过滤"],
+      "description": "工业级液体/气体洁净过滤器"
+    }
+  ]
+}

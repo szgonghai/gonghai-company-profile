@@ -1,0 +1,7 @@
+# Suzhou Gonghai Trading Co., Ltd.
+User-agent: *
+Allow: /
+Disallow: /_old/
+Disallow: /drafts/
+
+Sitemap: https://github.com/szgonghai/gonghai-company-profile/blob/main/sitemap.xml

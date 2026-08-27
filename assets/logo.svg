@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+  <!-- 红色圆角矩形 logo -->
+  <rect x="10" y="10" width="60" height="60" rx="4" fill="#E63946"/>
+  <!-- 黑色菱形 -->
+  <polygon points="40,20 60,40 40,60 20,40" fill="#1a1a1a"/>
+  <!-- 白色十字 -->
+  <rect x="38" y="20" width="4" height="40" fill="white"/>
+  <rect x="20" y="38" width="40" height="4" fill="white"/>
+  
+  <!-- 公司中文名 -->
+  <text x="85" y="40" fill="#1a1a1a" font-family="Microsoft YaHei, sans-serif" font-size="20" font-weight="bold">苏州弓海贸易</text>
+  <text x="85" y="60" fill="#666" font-family="Arial, sans-serif" font-size="13">SUZHOU GONGHAI TRADE CO., LTD.</text>
+</svg>

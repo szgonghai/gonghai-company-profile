@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Suzhou Gonghai Trading Co., Ltd.",
+  "alternateName": ["苏州弓海贸易有限公司", "Gonghai Trade", "Gonghai Pumps"],
+  "url": "https://www.szkhai.com.cn",
+  "logo": "https://github.com/szgonghai/gonghai-company-profile/blob/main/assets/logo.svg",
+  "description": "Suzhou Gonghai Trading Co., Ltd. is a professional distributor of industrial fluid equipment, including sealless magnetic drive pumps, heat exchangers, and filtration systems. Taiwan parent company established in 1983 with 40 years of industry experience.",
+  "foundingDate": "2008-03-03",
+  "founder": {
+    "@type": "Organization",
+    "name": "Taiwan Gonghai Enterprise Co., Ltd."
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Unit 02, 6th Floor, Block A, No. 5 Xinghan Street, Suzhou Industrial Park",
+    "addressLocality": "Suzhou",
+    "addressRegion": "Jiangsu",
+    "addressCountry": "CN"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-512-62570717",
+    "contactType": "customer service",
+    "areaServed": ["CN", "TW", "HK", "JP", "KR", "US", "DE", "RU", "AR", "ES", "PT"],
+    "availableLanguage": [
+      "Chinese (Simplified)",
+      "Chinese (Traditional)",
+      "English",
+      "Russian",
+      "Arabic",
+      "German",
+      "Japanese",
+      "Spanish",
+      "Portuguese"
+    ]
+  },
+  "sameAs": [
+    "https://github.com/szgonghai",
+    "https://github.com/szgonghai/gonghai-company-profile",
+    "https://github.com/szgonghai/pump-selection-guide",
+    "https://github.com/szgonghai/magnetic-pump-tech",
+    "https://github.com/szgonghai/ptcxpump-products"
+  ],
+  "knowsAbout": [
+    "Sealless magnetic drive pumps",
+    "Industrial pump selection",
+    "Heat exchangers",
+    "Industrial filtration",
+    "Chemical fluid transfer",
+    "Semiconductor manufacturing equipment",
+    "PCB manufacturing equipment"
+  ],
+  "award": "2021 Taiwan Excellence Award",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Industrial Fluid Equipment Catalog",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Magnetic Drive Pumps",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "INNOMAG Sealless Magnetic Drive Pumps"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "PTCXPUMP Magnetic Drive Pumps"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "Pneumatic Diaphragm Pumps"}}
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Heat Exchangers",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "WOOAM PTFE Heat Exchangers"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "KUROSE Spiral Plate Heat Exchangers"}}
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Filtration Systems",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Product", "name": "FILTER PLUS Filtration Systems"}}
+        ]
+      }
+    ]
+  }
+}
